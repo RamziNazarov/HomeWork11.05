@@ -1,0 +1,11 @@
+C:\Users\AB\Desktop\HomeWork11.05\HomeWork11.05\bin\Debug\netcoreapp2.1\HomeWork11.05.deps.json
+C:\Users\AB\Desktop\HomeWork11.05\HomeWork11.05\bin\Debug\netcoreapp2.1\HomeWork11.05.runtimeconfig.json
+C:\Users\AB\Desktop\HomeWork11.05\HomeWork11.05\bin\Debug\netcoreapp2.1\HomeWork11.05.runtimeconfig.dev.json
+C:\Users\AB\Desktop\HomeWork11.05\HomeWork11.05\bin\Debug\netcoreapp2.1\HomeWork11.05.dll
+C:\Users\AB\Desktop\HomeWork11.05\HomeWork11.05\bin\Debug\netcoreapp2.1\HomeWork11.05.pdb
+C:\Users\AB\Desktop\HomeWork11.05\HomeWork11.05\obj\Debug\netcoreapp2.1\HomeWork11.05.csprojAssemblyReference.cache
+C:\Users\AB\Desktop\HomeWork11.05\HomeWork11.05\obj\Debug\netcoreapp2.1\HomeWork11.05.csproj.CoreCompileInputs.cache
+C:\Users\AB\Desktop\HomeWork11.05\HomeWork11.05\obj\Debug\netcoreapp2.1\HomeWork11.05.AssemblyInfoInputs.cache
+C:\Users\AB\Desktop\HomeWork11.05\HomeWork11.05\obj\Debug\netcoreapp2.1\HomeWork11.05.AssemblyInfo.cs
+C:\Users\AB\Desktop\HomeWork11.05\HomeWork11.05\obj\Debug\netcoreapp2.1\HomeWork11.05.dll
+C:\Users\AB\Desktop\HomeWork11.05\HomeWork11.05\obj\Debug\netcoreapp2.1\HomeWork11.05.pdb
